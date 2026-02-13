@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Communication/Tasks.Communication.csproj" />
+  <Project Path="TaskManagerAPI/TasksManagerAPI.csproj" />
+  <Project Path="Tasks.Domain/Tasks.Domain.csproj" />
+  <Project Path="Tasks.Infrastructure/Tasks.Infrastructure..csproj" />
+  <Project Path="UsersCases/Tasks.Aplication.csproj" />
+</Solution>

@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Communication\Tasks.Communication.csproj" />
+    <ProjectReference Include="..\Tasks.Infrastructure\Tasks.Infrastructure..csproj" />
+  </ItemGroup>
+
+</Project>
